@@ -1,2 +1,3 @@
 # Pettern-Recognition-class
-I uploaded this for back-up. Please do not copy this code for your homework.
+パターン情報学で扱ったk近傍法、k平均法、線形重回帰、softmax回帰、neural-netの基本的な実装です。
+課題等にそのままコピーして使用するのはお控えください。
